@@ -1,3 +1,41 @@
+body {
+  background-color: white;
+}
 
+.welcome-card-1 {
+  font-style: italic;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-group {
+  background-image: url("https://images.pexels.com/photos/14579361/pexels-photo-14579361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-position: center center;
+  background-size: cover;
+  min-height: 600px;
+}
+
+.welcome-items {
+  margin-top: 150px;
+}
+
+.navbar-brand {
+  font-family: "Satisfy", cursive;
+}
+
+.services-text {
+  margin: 100px 0 100px 0;
+}
+
+.our-services {
+  background-color: green;
+}
+
+.service-item {
+  margin: 0;
+  background-color: yellow;
+}
 
 /*# sourceMappingURL=style.css.map */
