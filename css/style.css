@@ -29,13 +29,50 @@ body {
   margin: 100px 0 100px 0;
 }
 
-.our-services {
-  background-color: green;
+.service-item i {
+  font-size: 50px;
+  color: #ffe907;
+  border: 5px solid #ffe907;
+  border-radius: 50%;
 }
 
-.service-item {
+.portfolio {
+  margin: 100px 0 20px 0;
+  padding: 100px 0 100px 0;
+  background-color: rgb(231, 229, 229);
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.our-portfolio-text {
+  margin-bottom: 100px;
+}
+
+.portfolio-item img {
+  background-position: center center;
+  background-size: cover;
+  max-width: 100%;
+}
+
+.portfolio-item {
+  margin-bottom: 20px;
+}
+
+footer {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.media i {
+  width: 60px;
+  height: 60px;
+  padding: 15px;
+  border-radius: 30px;
+}
+
+h3 {
   margin: 0;
-  background-color: yellow;
+  padding: 0;
 }
 
 /*# sourceMappingURL=style.css.map */
